@@ -1,12 +1,5 @@
-/**
-* Template Name: OnePage - v4.10.0
-* Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 (function() {
   "use strict";
-
   /**
    * Easy selector helper function
    */
